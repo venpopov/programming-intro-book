@@ -1,5 +1,9 @@
-# Preface {.unnumbered}
+# Welcome {.unnumbered}
 
-This is a Quarto book.
+::: callout-warning
+This is a work in progress
+:::
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+Hello world!
+
+The goal of this text is to accompany my course at the University of Zurich titled "Introduction to programming and scientific computing". This public repo contains the source code and will be updated gradually in real time. At this point there are no guarantees that the repository URL or the current page link will remain as they are in the future.

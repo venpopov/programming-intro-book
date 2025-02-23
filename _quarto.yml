@@ -3,11 +3,18 @@ project:
 
 book:
   title: "Introduction to programming and scientific computing"
-  author: "Norah Jones"
+  author: "Ven Popov"
   date: "2/23/2025"
+  search: true
+  repo-url: "https://github.com/venpopov/programming-intro-book"
+  repo-actions: [edit, issue]
+  repo-branch: "main"
+  favicon: images/cover.png
+  issue-url: "https://github.com/venpopov/programming-intro-book/issues"
   chapters:
     - index.qmd
-    - intro.qmd
+    - preface.qmd
+    - introduction.qmd
     - summary.qmd
     - references.qmd
 
@@ -18,8 +25,6 @@ format:
     theme:
       - cosmo
       - brand
-  pdf:
-    documentclass: scrreprt
 
 
 
